@@ -9,3 +9,8 @@ inserita una usb in un pc windows deve avviarsi in automatico e avviare un progr
 es. file autorun.inf
 [AutoRun]
 open=chrome.exe
+
+
+
+è consigliato disattivare l'autorun in quanto come è possibile avviare programmi legittimi è possibile
+avviare programmi che possono recare danni al dispositivo, sottrarre informazioni, dati, password ecc
