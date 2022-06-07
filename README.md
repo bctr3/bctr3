@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Questa repository contiene progetti, script, programmi, tutorial, guide
-
-
+### Wee
 
 <!--
 **bctr3/bctr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
