@@ -1,0 +1,11 @@
+obiettivo:
+inserita una usb in un pc windows deve avviarsi in automatico e avviare un programma 
+*bisogna che l'autorun sia attivo 
+(solitamente è attivo di default, per scopi di test si può lasciare attivato in ambiente di produzione è consigliato disattivarlo)
+
+-installare un programma portable o uno script che non necessita di altri programmi sull'usb
+-creare un file di testo autorun.inf o utilizzare software di terze parti per la creazione del file
+
+es. file autorun.inf
+[AutoRun]
+open=chrome.exe
